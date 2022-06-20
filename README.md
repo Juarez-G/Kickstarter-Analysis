@@ -8,10 +8,10 @@
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-![heater_Outcomes_vs_Launch_(GJuarez).png](Kickstarter_Resources_Images/Theater_Outcomes_vs_Launch_(GJuarez).png)
+![Theater_Outcomes_vs_Launch_(GJuarez).png](Juarez-G/Kickstarter-Analysis/blob/main/Resources/Theater_Outcomes_vs_Goals.png)
 
 ### Analysis of Outcomes Based on Goals
-![Outcomes_vs_Goals.png](Kickstarter_Resources_Images/Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals.png](Juarez-G/Kickstarter-Analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
    Challenges and or difficulties that can potentially be encountered are centered around the length of time for each campaign depending on categories or sub categories.  Additionally, there is not enough data about the types of sub categories, like drama / comedy / mystery etc.
