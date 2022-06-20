@@ -8,7 +8,7 @@
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-![](Kickstarter_Resources_Images/Theater_Outcomes_vs_Launch(GJuarez).png)
+![Kickstarter_Resources_Images/Theater_Outcomes_vs_Launch(GJuarez).png](Kickstarter_Resources_Images)
 
 ### Analysis of Outcomes Based on Goals
 ![](Kickstarter_Resources_Images/Outcomes_vs_Goals.png)
