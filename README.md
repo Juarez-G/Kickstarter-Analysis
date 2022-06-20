@@ -1,30 +1,32 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-   This project is to analyze croudfunding data to assist Louise in making decisions on how various campaigns did based on time and fundraising goals.  Looking at outcomes over time and their respective goals, we'll be able to assist Loiuse on when she should create campaigns and at what goal point to be successful.
+   This project's focus is to analyze croudfunding data to assist Louise in making decisions on how various campaigns did based on time and fundraising goals.  Looking at outcomes over time and their respective goals, we'll be able to assist Loiuse on when she should create campaigns and at what goal point to be successful.
 
 ### Purpose
 
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-!![Image title](Resources)![Theater_Outcomes_vs_Launch (GJuarez)]
+!![Theater_Outcomes_vs_Launch (GJuarez).png](Resources)
 
 ### Analysis of Outcomes Based on Goals
-!![Image title](Resources)![Outcomes_vs_Goals]
+!![Outcomes_vs_Goals.png](Resources)
 
 ### Challenges and Difficulties Encountered
 
 ## Results
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
      Two conlusions that can be drawn from the Theater Outcomes based on Launch Date are:
-         1.  May and June have the most successful theater campaigns as well as the higher failure rates, which can mean that outcomes are most likely dependent on goal                amounts.
+         1.  May and June have the most successful theater campaigns as well as the higher failure rates, which can mean that outcomes are most likely dependent on                  goal amounts.
          2.  December seems to be the least likely to have a sucessful campaign as successul & failed meet on the graph.
 
 - What can you conclude about the Outcomes based on Goals?
-         The visualizations of Outcomes based on Goals, is inversely related, the lower the goal the higher the success rate, and the opposite is true, the higher the goal, the lower the success rate.  The sweet spot of goal amount based on the theater data is $9999 and below.
+     The visualizations of Outcomes based on Goals, is inversely related, the lower the goal the higher the success rate, and the opposite is true, the higher the          goal, the lower the success rate.  The sweet spot of goal amount based on the theater data is $9999 and below.
      
 - What are some limitations of this dataset?
+     A limitation of this dataset is:
+         1. The lack of standardization of monetary goals overall, so there is an apples to apples comparison.  Currently, you would have to filter by country - it                 does not speak for a global comparison.
 
 - What are some other possible tables and/or graphs that we could create?
       Other possible tables or graphs would be :
